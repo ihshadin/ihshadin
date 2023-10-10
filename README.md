@@ -13,14 +13,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://i.ibb.co/Fn0TpDg/wellcome.gif" style="width: 1200px" alt="Wellcome to my profile" />
-<img src="https://i.ibb.co/kJqQLC3/Github-Banner.png" align="center" style="width: 100%;" alt="Imam hossain" />
+<img src="https://i.ibb.co/kJqQLC3/Github-Banner.png" style="width: 100%;" alt="Imam hossain" />
+<p>
+💬 By continually staying ahead of industry trends and embracing lifelong learning, my aim is to make
+a profound impact by creating visually impressive and highly functional websites that precisely
+cater to the needs of clients.
+</p>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### Skills: 👨‍💻
+**`Expertise:`** HTML5 | CSS3 | JavaScript ES6 | Bootstrap | Tailwind CSS | DaisyUI | Firebase Authentication | MongoDB | React.js | React Router</br>
+**`Comfortable:`** ExpressJS | Rest APIs | JWT</br>
+**`Familiar:`** Node | Stripe | PHP</br>
+**`Tools:`** VS Code | Netlify | Vercel | Firebase | Dotenv | Figma | Photoshop</br>
+**`Extra Skills:`** WordPress | Elementor | Divi Builder | WooCommerce | Tutor LMS</br>
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+- 🔭 I’m currently working on [FlexCode](https://flex-code-6541d.web.app/)
+- 🌱 I’m currently learning `Next.js`, `Redux`
 
-- 🔭 I’m currently working on this page. 
-
+### GitHub Stats: 📊
 
 [<img src='https://i.ibb.co/Dwddd9z/Github-Banner.png' alt='github' height='40'>](https://github.com/ihshadin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ihshadin//)  
 
