@@ -12,11 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-### Hi there 👋, Hi, I am Imam Hossain (Shadin)
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://i.ibb.co/Dwddd9z/Github-Banner.png)
+<img src="https://i.ibb.co/Fn0TpDg/wellcome.gif" style="width: 1200px" alt="Wellcome to my profile" />
+<img src="https://i.ibb.co/kJqQLC3/Github-Banner.png" align="center" style="width: 100%;" alt="Imam hossain" />
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
