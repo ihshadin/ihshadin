@@ -66,7 +66,7 @@ cater to the needs of clients.
 
 ## GitHub Trophies: 🏆
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=ihshadin&theme=nord&column=6&margin-w=20&margin-h=15" style="width: 1200px" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ihshadin&theme=nord&column=6&margin-w=15&margin-h=15" style="width: 1200px" alt="Trophies" />
 </div>
 
 ## Connect with me: 📲
