@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <img src="https://i.ibb.co/Fn0TpDg/wellcome.gif" style="width: 1200px" alt="Wellcome to my profile" />
+  <img src="https://i.ibb.co/KwHS7fS/wellcome2.gif" style="width: 1200px" alt="Wellcome to my profile" />
 </div>
 <img src="https://i.ibb.co/kJqQLC3/Github-Banner.png" style="width: 100%;" alt="Imam hossain" />
 <p>
@@ -75,3 +75,19 @@ cater to the needs of clients.
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/ihshadin)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/ihshadin)
 [![CodePen](https://img.shields.io/badge/CodePen-%231E1F26.svg?logo=codepen&logoColor=white)](https://codepen.io/ihshadin)
+
+
+<tr>
+      <td  align="center">
+        <details open><summary>Full year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt=""></img></details>
+        <details><summary>Half year calendar</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <details open><summary>Indepth analysis (clone and analyze repositories)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img></details>
+        <details open><summary>Recently used (analyze recent activity events)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img></details>
+        <details><summary>Default algorithm</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.svg" alt=""></img></details>
+        <details><summary>Default algorithm (with details)</summary><img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.details.svg" alt=""></img></details>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
