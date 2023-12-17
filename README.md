@@ -29,7 +29,7 @@ cater to the needs of clients.
 **`Tools:`** VS Code | Netlify | Vercel | Firebase | Dotenv | Figma | Photoshop</br>
 **`Extra Skills:`** WordPress | Elementor | Divi Builder | WooCommerce | Tutor LMS</br>
 
-- 🔭 I’m currently working on [FlexCode](https://flex-code-6541d.web.app/)
+- 🔭 I’m currently working on [SynerShop](#)
 - 🌱 I’m currently learning `Next.js`, `Redux`
 
 ## GitHub Stats: 📰
